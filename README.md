@@ -2,13 +2,14 @@
 Lab assignments for the unit Systems Programming at UWA (CITS2200), written in C.
 
 Directory Structure:
-
+```
 |
 |------ Lab1
 |   
 |------ Lab2
 |
 |------ Lab3
+```
 
 Each folder has a C source file markedLab<x>. (x = number), and corresponding input.txt and/or output.txt files.
 
