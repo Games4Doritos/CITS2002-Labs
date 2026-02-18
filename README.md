@@ -16,6 +16,7 @@ Each folder has a C source file markedLab<x>. (x = number), and corresponding in
 Obviously, you can compile the C source files any way you want, this is how I compile:
 
 - Open the Visual Studio Command Prompt in the relevent directory
-- Execute `cl markedLab<x>.c`. This will create/overwite a binary in the directory called markedLab<x>.exe
+- Execute `cl markedLab<x>.c`. This will create/overwite a binary in the directory called markedLab<x>.exe\
+- Write your desired testcase to the respective input.txt file
 
-See individual directories for instrcutions on running
+See individual directories for instrcutions on running and the lab specifications.
