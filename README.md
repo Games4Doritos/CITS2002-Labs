@@ -1,5 +1,5 @@
 # CITS2002-Labs
-Lab assignments for the unit Systems Programming at UWA (CITS2200), written in C.
+Lab assignments for the unit Systems Programming at UWA (CITS2002), written in C.
 
 Directory Structure:
 ```
